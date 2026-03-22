@@ -1,2 +1,2 @@
-[![PDF Preview](Title.png)](R&C2 Presentation Slides_Group 13.pdf)
-[![PDF Preview](Visulization.png)](R&C2 Presentation Slides_Group 13.pdf)
+[![PDF Preview](Title.PNG)](RC2_Presentation_Slides_Group_13.pdf)
+[![PDF Preview](Visulization.PNG)](RC2_Presentation_Slides_Group_13.pdf)
